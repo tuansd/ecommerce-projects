@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ecommerce-projects.iml" filepath="$PROJECT_DIR$/.idea/ecommerce-projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-backend/spring-boot-ecommerce/spring-boot-ecommerce.iml" filepath="$PROJECT_DIR$/02-backend/spring-boot-ecommerce/spring-boot-ecommerce.iml" />
     </modules>
   </component>
 </project>
